@@ -1,5 +1,3 @@
-# My projects
-
 ## Project 1: [preprint average sentences](https://github.com/Olya-M/preprint-average-sentences)
 For this project I made a made a preprint summarizer that helps get a quick overview of a preprints for a biomed topic. The summarizer scrapes preprints for a searched topic, returns the most average sentence for each preprint, and clusters similar preprints together. Each preprint can then be skimmed by reading the most average sentence per paragraph.
 
