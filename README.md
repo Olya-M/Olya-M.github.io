@@ -3,11 +3,11 @@ For this project I made a made a preprint summarizer that helps get a quick over
 
 
 
-<img src="https://user-images.githubusercontent.com/68296887/134234634-ae7542dd-3a06-4d32-8235-069922d6cda0.png" width="500">
+<img src="https://user-images.githubusercontent.com/68296887/134234634-ae7542dd-3a06-4d32-8235-069922d6cda0.png" width="700">
 
 ## Project 2: [hand gesture recognition for computer navigation](https://github.com/Olya-M/gestures-recognition)
 * trained a gesture recognition model using MediaPipe, OpenCV, and Pytorch Lightning
 * trained the model to recognize 26 different hand gestures
 * set up gestures recognition events (such as using a mouse, changing the volume, or changing tabs) using AutoPy, pynput, and pycaw.
 
-<img src="https://user-images.githubusercontent.com/68296887/134214261-ac53e7ab-c573-4c4a-a72b-50faa66c2c80.png" width="500">
+<img src="https://user-images.githubusercontent.com/68296887/134214261-ac53e7ab-c573-4c4a-a72b-50faa66c2c80.png" width="700">
