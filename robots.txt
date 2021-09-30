@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://olyam.github.io/sitemap.xml
+Sitemap: https://olya-m.github.io/sitemap.xml
