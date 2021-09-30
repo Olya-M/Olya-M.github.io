@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Olya Mastikhina</title>
+    <link>https://olyam.github.io/</link>
+    <description>Recent content on Olya Mastikhina</description>
+    <image>
+      <url>https://olyam.github.io/papermod-cover.png</url>
+      <link>https://olyam.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://olyam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://olyam.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olyam.github.io/projects/</guid>
+      <description>Project 1: Imaginary houses GAN This is a project that I worked on to get more comfortable with Pytorch and general adversarial models (GANs). I created and cleaned a dataset of fantasy house images from the internet and set up and trained a GAN to generate 512x512 fantasy-themed houses. I leveraged transfer learning and tried out different GAN strategies, such as using a Wasserstein loss and label smoothing.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://olyam.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://olyam.github.io/publications/</guid>
+      <description>Funakoshi S, Fernandes I, Mastikhina O, Wilkinson D, Tran T, Dhahri W, Mazine A, Yang D, Burnett B, Lee J, Protze S. Generation of mature compact ventricular cardiomyocytes from human pluripotent stem cells. Nature communications. 2021 May 26;12(1):1-23.  Sun X, Nkennor B, Mastikhina O, Soon K, Nunes SS. Endothelium-mediated contributions to fibrosis. InSeminars in cell &amp;amp; developmental biology 2020 May 1 (Vol. 101, pp. 78-86). Academic Press.  Mastikhina O, Moon BU, Williams K, Hatkar R, Gustafson D, Mourad O, Sun X, Koo M, Lam AY, Sun Y, Fish JE.</description>
+    </item>
+    
+  </channel>
+</rss>
